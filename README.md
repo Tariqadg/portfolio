@@ -6,7 +6,7 @@
 
 <br/>
 
-## [My_Folio_link](https://shubhamgaur277.netlify.app/) 🔗
+## [My_Folio_link](https://tariq-port-folio.netlify.app) 🔗
 
 <div align="center">
   <img src="" alt="My_Folio Demo" width="100%" />
@@ -47,7 +47,7 @@ If you like this project then give it a **Github** star by pressing the **Star**
 
 ## Author 👨‍💻
 
-- **Shubham Gaur** - **[Linkedin](https://www.linkedin.com/in/about-shubhamgaur/)**, **[Twitter]()**, **[Github](https://github.com/ShubhamGaur-277)**, **[Portfolio](https://shubhamgaur277.netlify.app/)**  
+- **Tariq Ahmad** - **[Linkedin](https://www.linkedin.com/in/tariq-ahmad-farooqui-34a1b51b7/)**, **[Twitter]()**, **[Github]()**, **[Portfolio](https://tariq-port-folio.netlify.app)**  
 
 <br>
 
