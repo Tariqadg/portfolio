@@ -9,7 +9,7 @@
 ## [My_Folio_link](https://shubhamgaur277.netlify.app/) 🔗
 
 <div align="center">
-  <img src="https://github.com/ShubhamGaur-277/My-portfolio/blob/master/assets/demo.gif" alt="My_Folio Demo" width="100%" />
+  <img src="" alt="My_Folio Demo" width="100%" />
   <br>
 </div>
 
