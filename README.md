@@ -47,7 +47,7 @@ If you like this project then give it a **Github** star by pressing the **Star**
 
 ## Author 👨‍💻
 
-- **Tariq Ahmad** - **[Linkedin](https://www.linkedin.com/in/tariq-ahmad-farooqui-34a1b51b7/)**, **[Twitter]()**, **[Github]()**, **[Portfolio](https://tariq-port-folio.netlify.app)**  
+- **Tariq Ahmad** - **[Linkedin](https://www.linkedin.com/in/tariq-ahmad-farooqui-34a1b51b7/)**, **[Twitter]()**, **[Github](https://github.com/Tariqadg)**, **[Portfolio](https://tariq-port-folio.netlify.app)**  
 
 <br>
 
